@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "oauth2-client",
   "resources": {
-    "hash": "sha256-gl4bwLOI5BrdE/C4yP1mG1G/oFKzaGWRMnotU7ntfdg=",
+    "hash": "sha256-8acEgFR/FZm2En9GNYv0ry+qBLZVIM6fdVKtXuToW7U=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.54pea6dirw.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-DOtnQ3+rR9fdahebbFqXxx60H7B8jR03AaYj4y/r7z4=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-nJo9AftA2/mHxtXapqHsgjzQgIHOpue2DnVtxkgTSME=",
-      "oauth2-client.wasm": "sha256-CKNPVIiisWhiE3iAwyVlUNeNXRDpP5A9kUzrXaK+m8I=",
+      "oauth2-client.wasm": "sha256-1aDIG+RoJ6mfaQ6lT6EhJ6M3SGtimouZOJWe4pX00A0=",
       "System.Collections.Concurrent.wasm": "sha256-fy0jPil7fHjM/n+HnradCf8JgNeiz1wDaZ1W5e+U4II=",
       "System.Collections.wasm": "sha256-iduq+s3IHwLY/m7ygYqXNea/lKpQhXE+k7oUiQac6rg=",
       "System.ComponentModel.wasm": "sha256-tqO2Y4mD7n9rI1g+QSashz42lb50djXmx3ECzGEqbcY=",
